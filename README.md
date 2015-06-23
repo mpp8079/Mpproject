@@ -1,1 +1,2 @@
-# Mpproject
+# MyJavaProject1
+MyJavaProject1
