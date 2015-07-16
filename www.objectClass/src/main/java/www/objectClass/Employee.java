@@ -27,14 +27,13 @@ public class Employee {
 		
 	}
 	
-	public void Employeeinformation(){
+	/*public void Employeeinformation(){
 		System.out.println("Employee Name\t :" +  name);
 		System.out.println("Employee age\t :" +  age);
 		System.out.println("Employee Designation\t :" + designation);
-		System.out.println("Employee Salary\t :" +  salary);
+		System.out.println("Employee Salary\t :" +  salary);*/
 		
-	}
+}
 	
 	
 
-}
