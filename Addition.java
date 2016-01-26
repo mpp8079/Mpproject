@@ -1,7 +1,7 @@
 package mathMethod;
 
 import org.apache.log4j.Logger;
-
+// this project showing addition
 public class Addition {
 	
 	final static Logger log = Logger.getLogger(Addition.class);
